@@ -9,5 +9,5 @@ Some additional libraries I've worked with in this project are for the music pla
 -tkinter
 -mutagen
 
-Hope you'll enjoy developing it.
+Hope you'll enjoy it.
 Thank you.
